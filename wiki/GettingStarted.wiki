@@ -1,15 +1,20 @@
 == Prerequisites ==
   # WSS 3.0 / MOSS 2007 Environment 
-http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/install-solution.png
 
 == WSP Installation ==
   # Download and unzip the Facebook Wall Web Part archive. This contains the WSP file, deploy solution batch file and retract solution batch file
   # Change URL property from "<<Server URL>>" to your server URL in both the deploy and retract solution files
-  # Now run deploy solution file
+  # Now run deploy solution file 
+http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/install-solution.png
+
   # This will add the solution in solutions gallery and deploy it on given web address
+http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-gallery.png
 
 == Webpart Configuration ==
 
-  # Now you need to add the web part on the page from Web Part gallery
+  # Now you need to add the web part on the page from Web Part gallery 
+http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-pane.png
   # Once added, Configure User ID , number to feeds you want to show and description 
-  # Once configured you will be able to see the feeds of this user id
+http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-properties.png
+  # Once configured you will be able to see the feeds of this user id 
+http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-demo.png
