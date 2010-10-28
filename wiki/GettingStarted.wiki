@@ -4,7 +4,7 @@
 == WSP Installation ==
   # [http://sharepoint-facebook-wall.googlecode.com/files/sharepoint-facebook-wall-0.1.zip Download] and unzip the Facebook Wall Web Part archive. This contains the WSP file, deploy solution batch file and retract solution batch file
   # Change URL property from "<<Server URL>>" to your server URL in both the deploy and retract solution files
-  # Now run deploy solution file br http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/install-solution.png
+  # Now run deploy solution file <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/install-solution.png
   # This will add the solution in solutions gallery and deploy it on given web address http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-gallery.png
 
 == Webpart Configuration ==
