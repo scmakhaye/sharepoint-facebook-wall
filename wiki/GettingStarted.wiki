@@ -6,11 +6,11 @@
   # Change URL property from "<<Server URL>>" to your server URL in both the deploy and retract solution files
   # Now run deploy solution file <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/install-solution.png
   # This will add the solution in solutions gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/solution-properties.PNG
-  # This will also deploy the feature in site features gallery on specified web portal url<br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-gallery.png <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/write-features-gallery.PNG
+  # This will also deploy the feature in site features gallery on specified web portal url<br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/write-features-gallery.PNG
 
 == Step 2. Configuration of the Wall webpart ==
 
-  # Now you need to add the web part on the page from Web Part gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-pane.png
+  # Now you need to add the web part on the page from Web Part gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-pane.png 
   # Once added, Configure User ID , number to feeds you want to show and description <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-properties.png
   # Once configured you will be able to see the feeds of this user id <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-demo.png
 
