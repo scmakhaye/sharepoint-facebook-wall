@@ -2,7 +2,7 @@
   # WSS 3.0 / MOSS 2007 Environment 
 
 == Step 1. WSP Installation ==
-  # [http://sharepoint-facebook-wall.googlecode.com/files/sharepoint-facebook-wall-0.1.zip Download] and unzip the Facebook Wall Web Part archive. This contains the WSP file, deploy solution batch file and retract solution batch file
+  # [http://sharepoint-facebook-wall.googlecode.com/files/sharepoint-facebook-wall-1.0.zip Download] and unzip the Facebook Wall Web Part archive. This contains the WSP file, deploy solution batch file and retract solution batch file
   # Change URL property from "<<Server URL>>" to your server URL in both the deploy and retract solution files
   # Now run deploy solution file <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/install-solution.png
   # This will add the solution in solutions gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/solution-properties.PNG
