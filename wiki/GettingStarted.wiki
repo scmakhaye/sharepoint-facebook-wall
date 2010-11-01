@@ -18,4 +18,4 @@
   # Note the client id and client secret after registering Facebook application which we will need in next step. Also configure your URL and domain <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/configure-facebook.png
   # Now you need to add the web part on the page from Web Part gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-pane.PNG
   # Once added, Configure following properties <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-properties.PNG
-  # Once configured you will be able to see the feeds of this user id <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-demo.PNG
+  # Once configured you will be able to post the updates for this user id <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-demo.PNG
