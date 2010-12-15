@@ -21,5 +21,5 @@
   # Get the Facebook offline code from the facebook client id by [http://opensource.brickred.com/sharepoint-facebook-wall.htm using our code grabber] page. You will need to allow the application for offline access <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/code-grabber.PNG <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/facebook-confirmation.PNG <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/code-success.PNG
   # Please note the code from previous step. Now you need to add the web part on the page from Web Part gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-pane.PNG
   # Once added, Configure following properties <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-properties.PNG
-If you have used our  page to get the offline code then redirect_uri should be http://www.facebook.com/connect/login_success.html
+If you have used our  page to get the offline code then Redirect Url should be http://www.facebook.com/connect/login_success.html
   # Once configured you will be able to post the updates for this user id <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-demo.png
