@@ -20,10 +20,7 @@
   # Note the client id and client secret after registering Facebook application which we will need in next step. Also configure your URL and domain. Please note that the redirect URL in the webpart should be exactly same as configured here <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/configure-facebook.png
   # Get the Facebook offline code from the facebook client id by [http://opensource.brickred.com/sharepoint-facebook-wall.htm using our code grabber] page. You will need to allow the application for offline access <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/code-grabber.PNG <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/facebook-confirmation.PNG <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/code-success.PNG
   # Please note the code from previous step. Now you need to add the web part on the page from Web Part gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-pane.PNG
-  # Once added, Configure following properties <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-properties.PNG
-  
-  If you have used our code grabber page to get the offline code then Redirect Url should be http://www.facebook.com/connect/login_success.html
-
+  # Once added, Configure following properties <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-properties.PNG <br/>If you have used our code grabber page to get the offline code then Redirect Url should be http://www.facebook.com/connect/login_success.html
   # 'Where would you like to post' section: The 'Where would you like to post' section lets you specify whether you want to post to your wall or to your page's wall.As we know, we can also make fan pages in facebook and can post updates on the page's wall too.If you want the updates to be posted on your wall, choose the option 'On my wall'.If you want the updates to be posted on your fan page, choose the second option i.e. 'On my page'.
   # Post location chosen as 'On my wall':If post location is chosen as 'On my wall', the message that you provide in the webpart will be posted to your wall.<br/>
   # 'On my wall' setting:<br/>http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/wall-post-on-your-wall-config.png <br/><br/>
