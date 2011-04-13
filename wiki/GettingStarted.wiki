@@ -12,8 +12,8 @@
 == Step 2. Configuration of the Wall webpart ==
 
   # Now you need to add the web part on the page from Web Part gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-pane.png 
-  # Once added, Configure User ID , number to feeds you want to show and description <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-properties.png
-  # Once configured you will be able to see the feeds of this user id <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-demo.png
+  # Once added, Configure User ID/Page name/Page id , number to feeds you want to show and description <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-properties.png
+  # Once configured you will be able to see the feeds of this User ID/Page name/Page id <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-demo.png
 
 == Step 3. Configuration of the Write On Wall webpart ==
   # Login and [http://www.facebook.com/developers/createapp.php register your application] on Facebook <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/register-application.png
