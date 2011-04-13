@@ -39,4 +39,4 @@
   # Configuring message to be posted on page as current page:<br/>http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/wall-post-on-page-wall-as-this-page-config.png <br/>
   # Entering message as current page:<br/>http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/wall-post-on-page-wall-as-this-page-entered.png <br/>
   # Result of posting message on page as current page:<br/>http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/wall-post-on-page-wall-as-this-page-result.png <br/>
-  # Once configured you will be able to post the updates for the user/page <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-demo.png
+  
