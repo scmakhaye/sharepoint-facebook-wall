@@ -13,10 +13,7 @@
 === 2010 Installation ===
   # Right click on  !PackageDeploy.ps1 file and click "Run with !PowerShell"  <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/powershellinstall.png
   # Enter your web application URL when prompted <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/InputWebURL.png
-  # IF you have already installed this solution before then you will be given 3 options : 
-	Retract and Install solution<br/>
-	Upgrade Solution<br/>
-	Exit <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/SolutionAlreadyExists.png
+  # IF you have already installed this solution before then you will be given 3 options : <br/> Retract and Install solution<br/>Upgrade Solution<br/>Exit <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/SolutionAlreadyExists.png
   # In this demo, I opted for 1st option <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/Deployment-Success.png
   # This will add the solution in solutions gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/solution-properties.PNG
   # This will also deploy the feature in site features gallery on specified web portal url<br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/write-features-gallery.PNG
