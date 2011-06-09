@@ -18,15 +18,19 @@
   # This will add the solution in solutions gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/solution-properties.PNG
   # This will also deploy the feature in site features gallery on specified web portal url<br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/write-features-gallery.PNG
 
-== Step 2. Configuration of the Wall webpart ==
-
-  # Now you need to add the web part on the page from Web Part gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-pane.png 
-  # Once added, Configure User ID/User name/Page id , number of feeds you want to show and description <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-properties.png
-  # Once configured you will be able to see the feeds of this User ID/User name/Page id <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-demo.png
-
-== Step 3. Configuration of the Write On Wall webpart ==
+== Step 2. Application registration on facebook ==
   # Login and [http://www.facebook.com/developers/createapp.php register your application] on Facebook <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/register-application.png
   # Note the client id and client secret after registering Facebook application which we will need in next step. Also configure your URL and domain. Please note that the redirect URL in the webpart should be exactly same as configured here <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/configure-facebook.png
+
+== Step 3. Configuration of the Wall webpart ==
+  # Get the Facebook code from https://graph.facebook.com/oauth/authorize?client_id=CLIENTID&redirect_uri=http://www.facebook.com/connect/login_success.html&scope=read_stream link. Copy this link and change the CLIENTID as per your configuration and then paste this in your browser URL field and hit go. You will need to allow the application access to read posts from your profile/page<br/> https://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/app-permission-access-posts.png
+  # Once facebook succesfully process your request then it will redirect you back to the URL provide with the access code. Cut your access code from the URL as shown below<br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/code-success.PNG
+  # Please note the code from previous step.Now you need to add the web part on the page from Web Part gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-pane.png 
+  # Once added, Configure code from previous step,client id of application,client secret, redirect url,User ID/User name/Page id , number of feeds you want to show and description <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-properties.png
+  # Once configured you will be able to see the feeds of this User ID/User name/Page id <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-demo.png
+
+== Step 4. Configuration of the Write On Wall webpart ==
+
   # Get the Facebook offline code from https://graph.facebook.com/oauth/authorize?client_id=CLIENTID&redirect_uri=http://www.facebook.com/connect/login_success.html&scope=publish_stream,offline_access link. Copy this link and change the CLIENTID as per your configuration and then paste this in your browser URL field and hit go. You will need to allow the application for offline access <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/facebook-confirmation.PNG 
   # Once facebook succesfully process your request then it will redirect you back to the URL provide with the access code. Cut your access code from the URL as shown below<br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/code-success.PNG
   # Please note the code from previous step. Now you need to add the web part on the page from Web Part gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-pane.PNG
