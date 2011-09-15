@@ -27,6 +27,10 @@
   # Once facebook succesfully process your request then it will redirect you back to the URL provide with the access code. Cut your access code from the URL as shown below<br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/code-success.PNG
   # Please note the code from previous step.Now you need to add the web part on the page from Web Part gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-pane.png 
   # Once added, Configure code from previous step,client id of application,client secret, redirect url,User ID/User name/Page id , number of feeds you want to show and description <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-properties.png
+
+<font color=red>If you have used the above URL to get the offline code then Redirect Url should be http://www.facebook.com/connect/login_success.html. It is mandatory that both URLs should match in order to authentication request work. If both are not same then you will get an object referece error.</font>
+
+
   # Once configured you will be able to see the feeds of this User ID/User name/Page id <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-demo.png
 
 == Step 4. Configuration of the Write On Wall webpart ==
@@ -34,7 +38,8 @@
   # Get the Facebook offline code from https://graph.facebook.com/oauth/authorize?client_id=CLIENTID&redirect_uri=http://www.facebook.com/connect/login_success.html&scope=publish_stream,offline_access link. Copy this link and change the CLIENTID as per your configuration and then paste this in your browser URL field and hit go. You will need to allow the application for offline access <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/facebook-confirmation.PNG 
   # Once facebook succesfully process your request then it will redirect you back to the URL provide with the access code. Cut your access code from the URL as shown below<br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/code-success.PNG
   # Please note the code from previous step. Now you need to add the web part on the page from Web Part gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-pane.PNG
-  # Once added, Configure following properties <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-properties.PNG <br/>If you have used the above URL to get the offline code then Redirect Url should be http://www.facebook.com/connect/login_success.html
+  # Once added, Configure following properties <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-write-properties.PNG <br/>
+<font color=red>If you have used the above URL to get the offline code then Redirect Url should be http://www.facebook.com/connect/login_success.html. It is mandatory that both URLs should match in order to authentication request work. If both are not same then you will get an object referece error.</font>
   # 'Where would you like to post' section: The 'Where would you like to post' section lets you specify whether you want to post to your wall or to your page's wall.As we know, we can also make fan pages in facebook and can post updates on the page's wall too.If you want the updates to be posted on your wall, choose the option 'On my wall'.If you want the updates to be posted on your fan page, choose the second option i.e. 'On my page'.
   # Post location chosen as 'On my wall':If post location is chosen as 'On my wall', the message that you provide in the webpart will be posted to your wall.<br/>
   # 'On my wall' setting:<br/>http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/wall-post-on-your-wall-config.png <br/><br/>
