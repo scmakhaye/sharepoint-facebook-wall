@@ -31,7 +31,7 @@
 <font color=red>If you have used the above URL to get the offline code then Redirect Url should be http://www.facebook.com/connect/login_success.html. It is mandatory that both URLs should match in order to authentication request work. If both are not same then you will get an object referece error.</font>
 
 
-  # Once configured you will be able to see the feeds of this User ID/User name/Page id <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-demo.png
+  # Once configured you will be able to see the feeds of this User ID/User name/Page id/Group id <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/webpart-demo.png
 
 == Step 4. Configuration of the Write On Wall webpart ==
 
@@ -58,4 +58,10 @@
   # Configuring message to be posted on page as current page:<br/>http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/wall-post-on-page-wall-as-this-page-config.png <br/>
   # Entering message as current page:<br/>http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/wall-post-on-page-wall-as-this-page-entered.png <br/>
   # Result of posting message on page as current page:<br/>http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/wall-post-on-page-wall-as-this-page-result.png <br/>
-  
+  # Post location chosen as 'On my group'::If post location is chosen as 'On my group', another section will open up where you are asked to provide the group's facebook id:<br/>http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/wall-post-on-group-wall-config.png<br/>
+  # The group id to be provided is the id of your facebook group which can be determined by going to your group in facebook and hovering on the group's name.This screenshot shows the group id for the page named 'Demo Group' that we have created.<br/>
+  # Getting the facebook id for the group:<br/>http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/get-facebook-group-id.png <br/>
+  # For posting on group wall, the application must be given 'User Groups' right to your group .For granting these rights, specify the app's CLIENTID in this url and click on it and then click 'Allow'. https://www.facebook.com/dialog/oauth?client_id=CLIENT_ID&redirect_uri=https://www.facebook.com/connect/login_success.html&scope=user_groups&response_type=token <br/> For example, if your app's client id is 105434806208476, then the url for granting this permission is : https://www.facebook.com/dialog/oauth?client_id=105434806208476&redirect_uri=http://www.facebook.com/connect/login_success.html&scope=user_groups&response_type=token.# Granting user groups permission:<br/>http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/app-permission-manage-group.png <br/>
+  # Once this is done , we can post on the group's wall.
+  # Entering message:<br/>http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/wall-post-on-group-wall-as-this-user-entered.png <br/>
+  # Result of posting message on group wall:<br/>http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/wall-post-on-group-wall-as-this-user-result.png <br/>
