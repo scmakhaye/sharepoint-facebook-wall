@@ -1,0 +1,10 @@
+== Configuration of the Facebook Wall (Show Wall) webpart ==
+  # Get the Facebook code from https://graph.facebook.com/oauth/authorize?client_id=CLIENTID&redirect_uri=http://www.facebook.com/connect/login_success.html&scope=read_stream,offline_access link. Copy this link and change the CLIENTID as per your configuration and then paste this in your browser URL field and hit go. You will need to allow the application access to read posts from your profile/page<br/> https://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/app-permission-access-posts.png
+  # Once facebook succesfully process your request then it will redirect you back to the URL provide with the access code. Cut your access code from the URL as shown below<br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/code-success.PNG
+  # Please note the code from previous step.Now you need to add the web part on the page from Web Part gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/webpart-pane.png 
+  # Once added, Configure following properties in webpart properties section <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/show-wall-webpart-properties.png
+
+<font color=red>If you have used the above URL to get the offline code then Redirect Url should be http://www.facebook.com/connect/login_success.html. It is mandatory that both URLs should match in order to authentication request work. If both are not same then you will get an object referece error.</font>
+
+
+  # Once configured you will be able to see the feeds of this User ID/User name/Page id/Group id <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/show-wall-webpart-demo.png
