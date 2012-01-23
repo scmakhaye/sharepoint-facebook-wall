@@ -1,3 +1,5 @@
+http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/facebook_teaser.jpg
+
 http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/facebook-icon.png 
 = What is !SharePoint Facebook? = 
 
@@ -32,6 +34,14 @@ You can get started right away with the following tracks
 
   * You can [Installation install] all the webparts with our step by step installation guide.
   * Want to tinker with the source code? Sure go ahead and [http://code.google.com/p/sharepoint-facebook-wall/source/checkout checkout]. It can be immediately built with Visual Studio 2008 (!SharePoint 2007) & Visual Studio 2010 (!SharePoint 2010)
+
+Webparts Configurations
+
+  * You can [ApplicationRegistrationFacebook register] application on Facebook with our step by step registration guide.
+  * You can [WriteOnWallConfiguration configure] Write on Facebook wall webpart with our step by step configuration guide.
+  * You can [ShowWallConfiguration configure] Show Facebook wall webpart with our step by step configuration guide.
+  * You can [LikeBoxConfiguration configure] Facebook Like Box webpart with our step by step configuration guide.
+  * You can [LikeButtonConfiguration configure] Facebook Like Button webpart with our step by step configuration guide.
 
 ==Related Links==
 http://sharepoint-twitter.googlecode.com/svn/wiki/Images/twitter-icon.png
