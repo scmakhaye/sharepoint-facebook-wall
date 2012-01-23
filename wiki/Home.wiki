@@ -35,7 +35,7 @@ You can get started right away with the following tracks
   * You can [Installation install] all the webparts with our step by step installation guide.
   * Want to tinker with the source code? Sure go ahead and [http://code.google.com/p/sharepoint-facebook-wall/source/checkout checkout]. It can be immediately built with Visual Studio 2008 (!SharePoint 2007) & Visual Studio 2010 (!SharePoint 2010)
 
-Webparts Configurations
+= Webparts Configurations =
 
   * You can [ApplicationRegistrationFacebook register] application on Facebook with our step by step registration guide.
   * You can [WriteOnWallConfiguration configure] Write on Facebook wall webpart with our step by step configuration guide.
