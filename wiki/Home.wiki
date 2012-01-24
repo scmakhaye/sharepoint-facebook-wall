@@ -24,9 +24,20 @@ The only thing you need to configure after installation is the username of the f
   # Support for rich media content like videos, images, links etc
   # stsadm,powershell installers included
 
-http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/wall-post-on-group-wall-as-this-user-entered-success.png
+=== Show Facebook Wall ===
+
 http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/show-wall-webpart-demo.png
+
+=== Write on Facebook Wall ===
+
+http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/write-on-wall-demo.png
+
+=== Facebook Like Box ===
+
 http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/webpart-likebox-demo.png
+
+=== Facebook Like Button ===
+
 http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/webpart-likebutton-demo.png
 = Get Started=
 
