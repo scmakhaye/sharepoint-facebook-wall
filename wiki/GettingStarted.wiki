@@ -1,4 +1,4 @@
-<font color=red size=12> Please visit [Installation here] for latest installation guide </font>
+=<font color=red> Please visit [Installation here] for latest installation guide </font>=
 
 
 
