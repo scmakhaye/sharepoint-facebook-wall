@@ -4,7 +4,7 @@
 
 = Next Steps : !SharePoint !WebParts Configuration=
 
-  * You can [ShowWallConfiguration configure] Show Facebook wall webpart with our step by step configuration guide.
-  * You can [WriteOnWallConfiguration configure] Write on Facebook wall webpart with our step by step configuration guide.
-  * You can [LikeBoxConfiguration configure] Facebook Like Box webpart with our step by step configuration guide.
-  * You can [LikeButtonConfiguration configure] Facebook Like Button webpart with our step by step configuration guide.
+  *  [ShowWallConfiguration Configure Show Facebook wall webpart ] 
+  *  [WriteOnWallConfiguration Configure Write on Facebook Wall Webpart] 
+  *  [LikeBoxConfiguration Configure Facebook Like Box webpart ] 
+  *  [LikeButtonConfiguration Configure Facebook Like Button webpart] 
