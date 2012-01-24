@@ -1,3 +1,7 @@
+<font color=red size=12> Please visit [Installation here] for latest installation guide </font>
+
+
+
 == Prerequisites ==
   # WSS 3.0 / MOSS 2007 Environment 
     OR 
