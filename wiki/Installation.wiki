@@ -18,10 +18,7 @@
   # This will add the solution in solutions gallery <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/solution-properties.PNG
   # This will also deploy the feature in site collection features gallery on specified web portal url<br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/write-features-gallery.png
 
-= Webparts Configurations =
+= Next Step : Facebook Configuration=
 
   * You can [ApplicationRegistrationFacebook register] application on Facebook with our step by step registration guide.
-  * You can [WriteOnWallConfiguration configure] Write on Facebook wall webpart with our step by step configuration guide.
-  * You can [ShowWallConfiguration configure] Show Facebook wall webpart with our step by step configuration guide.
-  * You can [LikeBoxConfiguration configure] Facebook Like Box webpart with our step by step configuration guide.
-  * You can [LikeButtonConfiguration configure] Facebook Like Button webpart with our step by step configuration guide.
+  
