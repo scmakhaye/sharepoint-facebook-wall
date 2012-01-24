@@ -2,7 +2,7 @@
   # Login and [http://www.facebook.com/developers/createapp.php register your application] on Facebook <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/register-application.png
   # Note the client id and client secret after registering Facebook application which we will need in next step. Also configure your URL and domain. Please note that the redirect URL in the webpart should be exactly same as configured here <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/configure-facebook.png
 
-= Next Steps : !SharePoint WebParts Configuration=
+= Next Steps : !SharePoint !WebParts Configuration=
 
   * You can [ShowWallConfiguration configure] Show Facebook wall webpart with our step by step configuration guide.
   * You can [WriteOnWallConfiguration configure] Write on Facebook wall webpart with our step by step configuration guide.
