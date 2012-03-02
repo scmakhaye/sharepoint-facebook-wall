@@ -1,19 +1,19 @@
 == Application registration on facebook ==
   # Login and [http://www.facebook.com/developers/createapp.php register your application] on Facebook 
   <br/> 
-  http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/register-application.png
+  http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/register-application-facebook.png
 
 <BR/>
-  # Now provide the name of the application
+Now provide the name of the application
 
   http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/register-application-2.png
-
-  # Enter the captcha value if asked
+  <BR/>
+  Enter the captcha value if asked
 <BR/>
 
   http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/register-application-3.png
 
-  # Note the client id and client secret after registering Facebook application which we will need in next step. Also configure your URL and domain. Please note that the redirect URL in the webpart should be exactly same as configured here <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/configure-facebook.png
+  Note the client id and client secret after registering Facebook application which we will need in next step. Also configure your URL and domain. Please note that the redirect URL in the webpart should be exactly same as configured here <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/configure-facebook.png
 
 = Next Steps : !SharePoint !WebParts Configuration=
 
