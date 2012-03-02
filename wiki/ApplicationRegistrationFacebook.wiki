@@ -4,11 +4,11 @@
   http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/register-application.png
 
 <BR/>
-# Now provide the name of the application
+  # Now provide the name of the application
 
   http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/register-application-2.png
 
-# Enter the captcha value if asked
+  # Enter the captcha value if asked
 <BR/>
 
   http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/register-application-3.png
