@@ -11,10 +11,21 @@ Now provide the name of the application
   Enter the captcha value if asked
 <BR/>
 
-  http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/register-application-3.png
+http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/register-application-3.png
 
-  Note the client id and client secret after registering Facebook application which we will need in next step. Also configure your URL and domain. Please note that the redirect URL in the webpart should be exactly same as configured here <br/> http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/configure-facebook.png
+ <br/>
+Now your application is created. Your App id is the client id and App Secret is the Client Secret that we are going to use in future configurations.
+ <br/>
+ http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/configure-facebook.png
+   
 
+ <BR/> 
+  Also configure the website URL for the site to use. The domain name should be same from where you are going to authorize the calls 
+
+  http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/facebook-site-url.png
+ 
+  
+ 
 = Next Steps : !SharePoint !WebParts Configuration=
 
   *  [ShowWallConfiguration Configure Show Facebook wall webpart ] 
