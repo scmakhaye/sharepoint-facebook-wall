@@ -24,7 +24,14 @@ Now your application is created. Your App id is the client id and App Secret is 
 
   http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/facebook-site-url.png
  
-  
+= Local environment setup =
+If you don't have a public domain name like research.brickred.com, you may still try this application with your local system configuration. For that:<br><br>
+1.	Open C:\Windows\System32\Drivers\etc\hosts file (in notepad) and add following entry:
+127.0.0.1	research.brickred.com
+(There is a Tab in between)
+
+http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/hosts.png
+
  
 = Next Steps : !SharePoint !WebParts Configuration=
 
