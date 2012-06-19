@@ -32,6 +32,7 @@ If you don't have a public domain name like research.brickred.com, you may still
 
 http://sharepoint-facebook-wall.googlecode.com/svn/wiki/images/4.0/hosts.png
 
+*Use your local machine name for this configuration instead of brickred.com domain name like http://machinename.local
  
 = Next Steps : !SharePoint !WebParts Configuration=
 
